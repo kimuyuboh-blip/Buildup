@@ -41,7 +41,7 @@ if "summary" not in st.session_state:
     st.session_state.summary = ""
 
 # Create a password input field for the user's Google API key
-api_key = "AIzaSyCyw_ODKNrYMOO4gJbJHI3F-_ZVfzlQF7g"
+api_key = "API Keys"  # Placeholder for API key input
 
 
 if api_key:
